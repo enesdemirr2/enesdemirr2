@@ -27,7 +27,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesdemirr2&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Enes Demir:: Profile Stats" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=enesdemirr2&count_private=true&show_icons=true&theme=cobalt" alt="Jir Kaya:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=enesdemirr2&count_private=true&show_icons=true&theme=cobalt" alt="Enes Demir:: Profile Stats" /></p>
 
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=enesdemirr2&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Jir Kaya:: Profile Stats" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=enesdemirr2&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Enes Demir:: Profile Stats" /></p>
