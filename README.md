@@ -5,7 +5,9 @@
 
 <br><br>
 - 🔭 I’m currently working on the web
--- 🌱 I’m currently learning <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+- 🌱 I’m currently learning <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="25" height="25"/> </a>
+<br>
 <br>
 
 ## 🛠 Skills
